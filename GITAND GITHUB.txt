@@ -41,3 +41,7 @@ git add .
 git status
 git commits -m "commit massage"
 git push
+
+
+create a new branch 
+git checkout -b "branchname
